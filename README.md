@@ -11,7 +11,7 @@ _by Samara Fernandez_
 
 ---
 ## Initial Setup
-
+* With making a github account, if you're a HSTAT student then use your Hstat email to create it, but if you're not then use an email you regularly use. 
 
 
 ---
