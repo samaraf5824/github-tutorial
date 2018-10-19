@@ -11,8 +11,9 @@ _by Samara Fernandez_
 
 ---
 ## Initial Setup
+* Go to [github](https://github.com/)
 * With making a github account, if you're a HSTAT student then use your Hstat email to create it, but if you're not then use an email you regularly use. 
-
+  * After this, you should end up pressing free account and making your first repository
 
 ---
 ## Repository Setup
