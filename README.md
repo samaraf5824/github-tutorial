@@ -33,7 +33,8 @@ _by Samara Fernandez_
 1. Git `status` is an optional command to see which files have been edited since the last command (they will be red) and which have been committed to the stage (they will be green).
 2. With git add, there are three different ways you can use it. First way is with `git add file` which adds the files to stage to be committed. The second one is `git add .` which shortcut adds the current directory and all files have changes. The last one is `git add --all`which includes all changes, even deleted files.
 3. `Git commit -m "message"` takes a ‘snapshot’ of the files on the stage. The message should describe what you did or fixed in your code(takes photo)
-4.
+4. There's two ways to use git push. First, you use `git push -v origin master` to send your commits to the remote and the -u makes git remember which repo to push the changes to and origin is the remote you're pushing it to. But if you've already done `git push -v origin master`then you can do `git push` which brings any changes from the remote down to the local
+
 
 
 ---
