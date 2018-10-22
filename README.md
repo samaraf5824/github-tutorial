@@ -14,10 +14,18 @@ _by Samara Fernandez_
 * Go to [github](https://github.com/)
 * With making a github account, if you're a HSTAT student then use your Hstat email to create it, but if you're not then use an email you regularly use. 
   * After this, you should end up pressing free account and making your first repository
-
+ 
+  
 ---
 ## Repository Setup
-
+* With `git init`, you're initializing git in your repository
+  * _Its like hiring a photograther_
+* Then you do `git add file`  to add your files to the stage to be  commited
+  * _Like adding people to a photo_
+* After adding your file, you want to do `git commit -m "write your message here"`, this takes a 'snapshot' of your files and the message should describe what you did to your file
+  * _Takes a photo_ 
+* Now that you've added and committed, you're going to need somewhere to have all your work and this is where github comes in. You go to your github account and press the + on the left side opf your profile and then press on New Repository.You name your new repository the same name as your file, so that you can save all your work there. Once you press create, something that says Quick Setup will appear and you'll need to go to the second box that says '... or push an existing repository from the command line' and copy the two things into your file, but do them seperatly. (Make sure that in github on top you have it put as SSH)
+* Now with the remote, it's so that we have a connection between our current repository and an external on
 
 
 ---
