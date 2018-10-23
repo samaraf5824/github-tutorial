@@ -39,3 +39,9 @@ _by Samara Fernandez_
 
 ---
 ## Rolling Back Changes
+1. To undo `git edit`, you do `git checkout -- filename`
+2. To undo `git add`, you do `git reset HEAD filename` so yhat you can go back before you added the changes
+3. To undo `git commit`, you do `git reset --hard HEAD~1` so that you can end up adding more things to your repo
+4. To undo `git push`, you do `git push -f origin last_known_good_commit:branch_name`
+
+ 
